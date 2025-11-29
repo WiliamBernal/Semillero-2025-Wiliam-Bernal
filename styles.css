@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+head {
+    #hero{ 
+        width: 20%;
+    }
+}
